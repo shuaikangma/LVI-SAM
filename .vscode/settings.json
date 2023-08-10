@@ -1,0 +1,19 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mrmmm/SLAM/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/opt/intel/openvino_2022.3.0/python/python3.8",
+        "/opt/intel/openvino_2022.3.0/python/python3",
+        "/opt/drake/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/mrmmm/SLAM/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/opt/intel/openvino_2022.3.0/python/python3.8",
+        "/opt/intel/openvino_2022.3.0/python/python3",
+        "/opt/drake/lib/python3.8/site-packages"
+    ],
+    "files.associations": {
+        "dense": "cpp"
+    }
+}
